@@ -1,2 +1,2 @@
 # ms-eureka
-microsserviço de descoberta de microsserviços
+microservice discovery microservice
